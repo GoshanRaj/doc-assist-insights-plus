@@ -1,0 +1,1 @@
+const HealthTips = () => <div>Health Tips Page</div>; export default HealthTips;

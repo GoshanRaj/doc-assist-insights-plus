@@ -1,0 +1,1 @@
+const Doctors = () => <div>Doctors Page</div>; export default Doctors;
